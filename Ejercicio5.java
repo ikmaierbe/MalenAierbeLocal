@@ -5,6 +5,7 @@ public class Ejercicio5 {
 <<<<<<< HEAD
 =======
 //Comentario para guardar modificaciones
+//Creando conflictos desde GitHub
 
 >>>>>>> d83c1b9e2f5a94639fa16c77cd137461d61ef036
     // Generar sorteo: devuelve un array con numTiradas números aleatorios entre valorMin y valorMax
