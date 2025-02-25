@@ -2,6 +2,11 @@ import java.util.Random;
 
 public class Ejercicio5 {
 
+<<<<<<< HEAD
+=======
+//Comentario para guardar modificaciones
+
+>>>>>>> d83c1b9e2f5a94639fa16c77cd137461d61ef036
     // Generar sorteo: devuelve un array con numTiradas números aleatorios entre valorMin y valorMax
     public static char[] generarSorteo(int numTiradas, char valorMin, char valorMax) {
         Random random = new Random();
@@ -72,4 +77,8 @@ public class Ejercicio5 {
         System.out.println("\nFrecuencia de letras:");
         mostrarFrecuencias(frecuencias, valorMin, valorMax);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d83c1b9e2f5a94639fa16c77cd137461d61ef036
