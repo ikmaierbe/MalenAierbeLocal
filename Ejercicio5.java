@@ -2,6 +2,8 @@ import java.util.Random;
 
 public class Ejercicio5 {
 
+//Comentario para guardad modificaciones
+
     // Generar sorteo: devuelve un array con numTiradas números aleatorios entre valorMin y valorMax
     public static char[] generarSorteo(int numTiradas, char valorMin, char valorMax) {
         Random random = new Random();
